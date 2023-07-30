@@ -1,5 +1,7 @@
 # SandShovelPhysics
-testing sand digging with shovel
+Prototype for testing sand digging with shovel.
+Creates sand mesh based on shovel edge points that are underground.
+"Merges" dropped sand mesh into high resolution ground mesh (by moving existing ground vertices upwards that amount).
 
 ### Videos
 - Part 1: https://www.youtube.com/watch?v=RMUxyq1O7A8
